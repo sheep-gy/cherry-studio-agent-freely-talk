@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 运行时产物
+logs/
+backup/
+*.log
+state.json
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
